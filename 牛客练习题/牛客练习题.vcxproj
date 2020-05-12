@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="5.10.cpp" />
+    <ClCompile Include="5.12.c" />
     <ClCompile Include="5.9.c" />
     <ClCompile Include="5_8.cpp" />
   </ItemGroup>
