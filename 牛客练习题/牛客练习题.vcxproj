@@ -155,6 +155,8 @@
     <ClCompile Include="5.25.cpp" />
     <ClCompile Include="5.26.c" />
     <ClCompile Include="5.27.c" />
+    <ClCompile Include="5.28.c" />
+    <ClCompile Include="5.29.cpp" />
     <ClCompile Include="5.9.c" />
     <ClCompile Include="5_8.cpp" />
   </ItemGroup>
