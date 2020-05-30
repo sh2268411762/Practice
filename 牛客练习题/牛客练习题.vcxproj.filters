@@ -75,5 +75,8 @@
     <ClCompile Include="5.29.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.30.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
