@@ -81,5 +81,11 @@
     <ClCompile Include="6.1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.31.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
