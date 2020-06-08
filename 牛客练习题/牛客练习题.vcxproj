@@ -166,6 +166,8 @@
     <ClCompile Include="6.3.cpp" />
     <ClCompile Include="6.4.c" />
     <ClCompile Include="6.5.cpp" />
+    <ClCompile Include="6.6.c" />
+    <ClCompile Include="6.7.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
