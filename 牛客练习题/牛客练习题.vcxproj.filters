@@ -105,5 +105,8 @@
     <ClCompile Include="6.8.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6.16.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
