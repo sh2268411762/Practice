@@ -166,6 +166,7 @@
     <ClCompile Include="6.16.c" />
     <ClCompile Include="6.17.c" />
     <ClCompile Include="6.2.c" />
+    <ClCompile Include="6.21.cpp" />
     <ClCompile Include="6.3.cpp" />
     <ClCompile Include="6.4.c" />
     <ClCompile Include="6.5.cpp" />
