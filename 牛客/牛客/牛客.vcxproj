@@ -55,6 +55,7 @@
     <ClCompile Include="..\..\牛客练习题\6.7.c" />
     <ClCompile Include="..\..\牛客练习题\6.8.c" />
     <ClCompile Include="..\..\牛客练习题\6.9.c" />
+    <ClCompile Include="10.19.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

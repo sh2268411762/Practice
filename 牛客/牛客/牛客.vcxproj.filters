@@ -123,5 +123,8 @@
     <ClCompile Include="..\..\牛客练习题\6.23.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10.19.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
